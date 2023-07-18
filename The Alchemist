@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Alchemist GitHub Repository</title>
+</head>
+<body>
+    <header>
+        <h1>Welcome to The Alchemist GitHub Repository</h1>
+    </header>
+
+    <main>
+        <section>
+            <h2>Repository Information</h2>
+            <p><strong>Repository Name:</strong> The Alchemist</p>
+            <p><strong>Description:</strong> This is a repository for the project "The Alchemist," a web application for chemical transformations.</p>
+            <p><strong>URL:</strong> <a href="https://github.com/AceBearRW/The-Alchemist">https://github.com/AceBearRW/The-Alchemist</a></p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 Your Name. All rights reserved.</p>
+    </footer>
+</body>
+</html>
